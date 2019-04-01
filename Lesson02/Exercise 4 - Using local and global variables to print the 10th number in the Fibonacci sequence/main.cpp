@@ -13,8 +13,8 @@ void print_tenth_fibonacci() {
 //	int n_2 = 0;
 	
 	//correction
-	int n1 = 0;
-	int n2 = 1;
+	int n_1 = 0;
+	int n_2 = 1;
 	
 	int current = n_1 + n_2;
     // We can access the global variables from inside the function
