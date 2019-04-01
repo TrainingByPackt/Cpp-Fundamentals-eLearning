@@ -9,8 +9,13 @@ const int ALREADY_COMPUTED = 3;
 void print_tenth_fibonacci() {
     // Local variables.
     // They don't have to be defined at the top of the function!
-	int n_1 = 1;
-	int n_2 = 0;
+//	int n_1 = 1;
+//	int n_2 = 0;
+	
+	//correction
+	int n1 = 0;
+	int n2 = 1;
+	
 	int current = n_1 + n_2;
     // We can access the global variables from inside the function
 	for(int i = ALREADY_COMPUTED; i <= POSITION; ++i) {
