@@ -45,7 +45,7 @@ class Enemy : public Character {
 public:
     void swingSword() {
         // Swing the sword
-        std::cout << "Swining sword" << std::endl;
+        std::cout << "Swinging sword" << std::endl;
     }
 };
 
