@@ -1,6 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Cpp-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Cpp-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Cpp-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Data-Visualization-with-Python-eLearning/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Cpp-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Cpp-Fundamentals-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Cpp-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Cpp-Fundamentals-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Cpp-Fundamentals-eLearning.svg)](https://github.com/TrainingByPackt/Cpp-Fundamentals-eLearning/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Cpp-Fundamentals-eLearning/pulls)
 
 # C++ Fundamentals eLearning
