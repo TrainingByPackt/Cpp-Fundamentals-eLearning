@@ -18,7 +18,7 @@ C++ is a unique language for its ability to write high-level abstractions while 
 ### Hardware Requirements
 For an optimal student experience, we recommend the following hardware configuration:
 * **Processor**: Intel Core i3 or equivalent
-* **Memory**: 40GB RAM
+* **Memory**: 4GB RAM
 * **Storage**: 10 GB available space
 * An Internet connection
 
